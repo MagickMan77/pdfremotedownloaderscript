@@ -8,7 +8,8 @@
 // @grant       none
 //
 // @author      -
-// @description
+// @description A vibe coded user script that downloads pdf from pdfremote.com
+// @license     unlicense
 // ==/UserScript==
 
 (function () {
